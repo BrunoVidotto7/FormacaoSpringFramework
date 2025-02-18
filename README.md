@@ -1,6 +1,6 @@
 # Spring studies
 
-##📌 Overview
+## 📌 Overview
 
 This repository contains various projects and exercises related to the Spring Framework, primarily focused on content from courses taken on Alura. It serves as a learning hub for understanding and implementing Spring Boot, JPA, Hibernate, REST APIs, Servlets, and more.
 
