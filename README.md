@@ -1,6 +1,6 @@
 # Spring Studies
 
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-2.5.4-brightgreen) ![Java](https://img.shields.io/badge/Java-11-blue) ![License](https://img.shields.io/badge/License-MIT-yellow)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-2.5.4-brightgreen) ![License](https://img.shields.io/badge/License-MIT-yellow)
 
 ## 📌 Overview
 This repository contains various projects and exercises related to the **Spring Framework**, primarily focused on content from courses taken on **Alura**. It serves as a learning hub for understanding and implementing **Spring Boot, JPA, Hibernate, REST APIs, Servlets, and more**.
